@@ -8,6 +8,6 @@ require (
     github.com/emirpasic/gods v1.12.0
     github.com/unknwon/cae v1.0.0
     github.com/mattn/go-isatty v0.0.12
-    github.com/go-redis/redis v6.15.7+incompatible
+    github.com/go-redis/redis v6.15.9+incompatible
     github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
 )
