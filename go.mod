@@ -3,7 +3,7 @@ module github.com/sonatype-nexus-community/intentionally-vulnerable-golang-proje
 go 1.13
 
 require (
-  	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
+  	golang.org/x/sys v0.23.0
     github.com/xanzy/ssh-agent v0.2.1
     github.com/emirpasic/gods v1.12.0
     github.com/unknwon/cae v1.0.0
